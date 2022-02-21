@@ -36,13 +36,13 @@ git clone https://github.com/W8SOJIB/W8UrlMask
 ls
 ```
 ```
-cd Masking-URL
+cd W8UrlMask
 ```
 ```
 chmod +x *
 ```
 ```
-bash Masking-OH.sh
+bash W8UrlMask.sh
 ```
 
 
